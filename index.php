@@ -5,8 +5,7 @@
 <div id="content">
 <div id="contentleft">
 <h1>welcome to my page</h1>
-welcom to the alian care web site i wich u enjoy by
-lurninng all the alianc language and technology
+
 
 </div><!--contentleft-->
 
